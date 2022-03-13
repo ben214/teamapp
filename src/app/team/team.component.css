@@ -1,0 +1,6 @@
+.team{
+    margin-top: 1em;
+    padding: 1em;
+    border: solid 0.1rem rgba(128, 128, 128, 0.418);
+    align-self: auto;
+}
